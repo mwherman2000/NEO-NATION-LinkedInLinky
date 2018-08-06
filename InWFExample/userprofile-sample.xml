@@ -1,0 +1,19 @@
+﻿<!-- https://api.linkedin.com/v1/people/~ -->
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<person>
+    <id>pSepzYc2J2</id>
+    <first-name>Michael</first-name>
+    <last-name>Herman</last-name>
+    <headline>Independent Blockchain Developer (NEO, Ethereum), #Shaper, Data Scientist, and Software Visionary</headline>
+    <site-standard-profile-request>
+        <url>https://www.linkedin.com/profile/view?id=AAoAAAAAL8sB_xsk_TyXoBNEfPmuZYovgvg7dc8&amp;authType=name&amp;authToken=Yapn&amp;trk=api*a4490004*s4554614*</url>
+    </site-standard-profile-request>
+</person>
+
+<!-- https://api.linkedin.com/v1/people/~:(id,num-connections,picture-url) -->
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<person>
+    <id>pSepzYc2J2</id>
+    <num-connections>500</num-connections>
+    <picture-url>https://media.licdn.com/dms/image/C4E03AQGfa1K2FErMHg/profile-displayphoto-shrink_100_100/0?e=1529722800&amp;v=beta&amp;t=iV9q_ZH8A32zNeQct0wUNsWfeW50RdzrFBAsCF9n_Ck</picture-url>
+</person>
